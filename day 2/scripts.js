@@ -42,7 +42,7 @@ let paraTag = document.getElementById("paragraph-tag");
 console.log(paraTag);
 paraTag.style.fontFamily = "sans-serif";
 paraTag.style.fontSize = "50px";
-paraTag.style.padding = "20px";
+paraTag.style.padding = "25px";
 paraTag.style.margin = "10px";
 paraTag.style.backgroundColor = "green";
 
